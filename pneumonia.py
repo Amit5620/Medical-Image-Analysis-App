@@ -4,7 +4,7 @@ import numpy as np
 import pandas as pd
 import cv2
 import tensorflow as tf
-from IPython.display import display
+# from IPython.display import display
 import matplotlib as mpl
 import tensorflow as tf
 import tensorflow.keras as keras
@@ -95,8 +95,8 @@ def save_and_display_gradcam(img, heatmap, cam_path="cam.jpg", alpha=0.4 , view 
     superimposed_img.save(cam_path)
 
     # Display Grad CAM
-    if view :
-        display(Image(cam_path))
+    # if view :
+    #     display(Image(cam_path))
 
         
      
