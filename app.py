@@ -3,7 +3,7 @@ from PIL import Image
 import numpy as np
 import cv2
 import tensorflow as tf
-from IPython.display import display
+# from IPython.display import display
 import matplotlib as mpl
 import tensorflow as tf
 import tensorflow.keras as keras
