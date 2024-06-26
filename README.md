@@ -15,8 +15,8 @@ This web application allows users to upload X-ray images for analysis to predict
 
 ## Demo
 
-Live Demo [here](#)!
-Github source code [Link](#)!
+Live Demo [here](https://medical-image-analysis-app-vetfprkxudc87vp7igvzgd.streamlit.app/)!
+Github source code [Link](https://github.com/Amit5620/Medical-Image-Analysis-App/tree/main)!
 
 ### Installation
 
